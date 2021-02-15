@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I am Fatma
+
+I am a continously learning junior QA. Currently, I have finished a 7-month web-development program with [HackYourFuture](https://www.hackyourfuture.net/) coding school, and I took the Quality Assurance track. 
+
+
 
 <!--
 **FatmaHameed/FatmaHameed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
